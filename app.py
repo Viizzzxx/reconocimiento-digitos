@@ -73,6 +73,8 @@ def lienzo(clave):
 
 st.title("🔢 Reconocimiento de dígitos manuscritos")
 st.caption("Clásico · CNN · RNN · Transfer Learning · Autoencoder — ciclo completo de un sistema inteligente")
+st.markdown("**Equipo:** Alan Antonio Moreno Contreras · Victor Emanuel Martinez Gonzalez · Oliver Sebastián Gomez Martinez  \n"
+            "**Materia:** Aprendizaje Profundo · Proyecto Integrador · **Docente:** Relthi Peña Jiménez")
 
 tab_comp, tab_dash, tab_ae, tab_etica, tab_acerca = st.tabs(
     ["✏️ Comparador en vivo", "📊 Dashboard", "🧽 Autoencoder", "⚖️ Responsabilidad e impacto", "ℹ️ Acerca del proyecto"])
