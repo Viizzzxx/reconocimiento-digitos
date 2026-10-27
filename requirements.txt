@@ -1,0 +1,8 @@
+tensorflow==2.21.0
+keras==3.13.2
+scikit-learn==1.6.1
+streamlit==1.66.1
+streamlit-drawable-canvas==0.13.0
+plotly
+pandas
+pillow
